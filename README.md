@@ -28,7 +28,7 @@
 gn151,gionee,188436,4.4.2,天气|userdictionary|drm保护内容存储|keyguardtestactivity|android系统|浏览器|手机管家|网络位置|sim卡应用|声音和振动|输入设备|号码归属地|时钟|下载管理程序|云端备份|应用包访问权限帮助程序|hotlinesprovider|系统备份|电话/信息存储|amigo设置存储|系统管家|wifi万能钥匙|联系人存储|定时开关机|下载管理|媒体存储|信息|随变桌面|日历|日历存储|搜索应用程序提供商|语音引擎|gioneepushengine|系统用户界面|联系人|wlan|游戏大厅|蓝牙|amigo系统服务|cellconnectionservice|一体化位置信息|incallui|amigo账号|搜狗输入法|gn_schairplane,45
 ```
 
-### `apps-full.csv`
+### `apps-full.csv` 装机应用量
 
 | app            | count |
 | -------------- | ----- |
@@ -37,5 +37,18 @@ gn151,gionee,188436,4.4.2,天气|userdictionary|drm保护内容存储|keyguardte
 ```csv
 keyguardtestactivity,35343
 android系统,178746
+```
+
+### `brand-all.csv` 品牌量
+
+|brand|counts|
+| ------- | -------- |
+|vivoy13|151|
+|vivox5max+|469|
+
+```csv
+sm-n900,64
+vivoy27,603
+oppoa33m,2756
 ```
 
