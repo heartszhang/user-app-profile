@@ -1,2 +1,3 @@
 *.tar.xz
 raw.d
+.ipynb_checkpoints/
